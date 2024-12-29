@@ -15,8 +15,7 @@ public class Variable_type {
 	//Parameterized constructor
 	Variable_type(int a, int b) {
 		x=a;   //a and b are local variable
-		y=b;
-		
+		y=b;	
 	}
 	void display() {
 		System.out.println(x);
